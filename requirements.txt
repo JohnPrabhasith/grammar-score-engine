@@ -1,0 +1,11 @@
+kaggle
+librosa
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+sklearn
+scipy
+xgboost
+ipykernel
